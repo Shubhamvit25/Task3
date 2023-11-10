@@ -1,5 +1,5 @@
 h1 {
-    color: orange;
+    color: pink;
     font-size: 50px;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
@@ -20,7 +20,7 @@ h1 {
   th {
     border: 3px solid black;
     padding: 20px;
-    background-color: orange;
+    background-color: pink;
     color: white;
   }
   
